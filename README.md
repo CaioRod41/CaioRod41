@@ -10,7 +10,7 @@
   <img height="207em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRod41&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### ▫️ Tecnologias:
+### ▫️Tecnologias:
   <div style="display: inline_block">
   
   <img align="left" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
   <br>
   </div>
    
-   ### ▫️ Social:
+   ### ▫️Social:
    
    <div>
     <a href="https://www.linkedin.com/in/caiorl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
