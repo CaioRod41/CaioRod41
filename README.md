@@ -1,7 +1,7 @@
 ### 🙋 Prazer, eu sou o Caio!
 
 - 📖 Estudante de Engenharia de Software e Redes de comunicação.
-- 🧑‍💻 Apaixonado por programação!
+- 👨‍💻 Apaixonado por programação!
 - 📫 E-mail para contato: caiorodrigues159@gmail.com
 
 <div align="left">
