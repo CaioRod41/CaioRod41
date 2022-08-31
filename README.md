@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/CaioRod41">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CaioRod41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="157em" width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRod41&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CaioRod41&show_icons=true95&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRod41&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### ▫️Tecnologias:
