@@ -1,8 +1,8 @@
 
 
-- 📖 Estudante de Engenharia de Software e Redes de comunicação.
+- 📖 Estudante de Engenharia de Software e Computação.
 - 📫 E-mail para contato: caiorodrigues159@gmail.com
-- 💻 Estagiário em Desenvolvimento de software na Comp Line Services Solutions.
+- 💻 Desenvolvedor júnior na Comp Line Services Solutions.
 
 <div align="left">
   <a href="https://github.com/CaioRod41">
